@@ -1,5 +1,5 @@
 # Finance-Manegement
-Sistema de gerenciamento de finanças funcional e prático utilizando JavaScrip.
+Sistema de gerenciamento de finanças funcional e prático utilizando JavaScript.
 Utilizando métodos ForEach, Map, Reduce, Filter e outros internos do JavaScript, como Push e Splice, foi possível adiconar a descrição e valor da despesa, e se são valores de entrada ou de saída, também como deletar uma despesa específica.
 
 
